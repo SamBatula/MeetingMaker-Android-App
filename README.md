@@ -1,16 +1,29 @@
 # MeetingMaker-Android-App
 
 Meeting Maker is an android mobile application designed to streamline and improve “A-Z” planning, through conducting and the execution of school & university meetings via automation.
+
 It offers a dynamic geolocation of the user and the meeting location, serving as a personal “assistant” using an in-depth GPS to arrive at the meeting room. 
+
 The mobile application provides a dynamic calendar that allow users to see created meetings and updated meetings. 
+
 The mobile application provides embedded notifications that allow users to receive updates on on-time, delayed, or canceled meetings. 
 
-Language: 100% Kotlin
-Tools Used: Android Studio
+Language: 
+
+100% Kotlin
+
+Tools Used: 
+
+Android Studio
+
 SDK
+
 Google Api
+
 Firebase Firestore Database
+
 Firebase Realtime Database
+
 Firebase Authentication System
 
 <img width="322" alt="Screenshot 2022-12-10 at 1 52 04 PM" src="https://user-images.githubusercontent.com/62612898/210155883-c8342197-f55e-4c3d-95ea-2a33f1952a06.png">
